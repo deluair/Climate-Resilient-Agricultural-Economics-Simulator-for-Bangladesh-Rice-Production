@@ -1,0 +1,16 @@
+# Core libraries
+pandas
+numpy
+matplotlib
+scipy
+pydantic # For data validation and settings management
+
+# Agent-based modeling (if applicable, e.g., Mesa)
+# mesa
+
+# GIS/Geospatial (if applicable)
+# geopandas
+# rasterio
+# shapely
+
+# Other specific libraries
